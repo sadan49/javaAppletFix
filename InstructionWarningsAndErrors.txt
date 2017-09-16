@@ -1,0 +1,6 @@
+Step 1 : Write applet file
+Step 2 : After compilatoin of the file, Invoke class file in HTML Documents.
+  <applet>
+  </applet> tags
+Step 3 : Open html file in java enable browser
+  or simply run "appletviewer ClassFile.html" in order see the applet.
